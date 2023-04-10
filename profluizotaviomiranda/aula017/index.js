@@ -4,7 +4,7 @@ function soma(x, y){
 }
  
 const resultado = soma(4, 2);
-console.log(resultado);
+console.log(soma(4,2));
 
 const raiz = function(n){
     return n ** 0.5;

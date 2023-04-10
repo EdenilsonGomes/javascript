@@ -1,9 +1,10 @@
 //              0       1        2         3       4
 let alunos = ['Luiz', 'Maria', 'João']; //Luiza, Eduardo
-alunos = 123; //Luiza, Eduardo
+alunos.push('Anderson') //Luiza, Eduardo
 
-console.log(typeof alunos);
-console.log(alunos instanceof Array)
+alunos.shift()
+
+console.log(alunos)
 
 //alunos.push('Luiza') //Adiciona no fim
 //alunos.push('Eduardo')
