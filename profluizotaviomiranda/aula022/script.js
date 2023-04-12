@@ -11,3 +11,5 @@ Operadores Lógicos
     const vaiLogar = usuario === 'Luiz' && senha === '123456'; 
 */
 console.log(vaiLogar);
+
+tesntando 123
