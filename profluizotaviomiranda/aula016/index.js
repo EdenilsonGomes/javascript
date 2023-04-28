@@ -1,10 +1,10 @@
 //              0       1        2         3       4
-let alunos = ['Luiz', 'Maria', 'João']; //Luiza, Eduardo
+//let alunos = ['Luiz', 'Maria', 'João']; //Luiza, Eduardo
 alunos.push('Anderson') //Luiza, Eduardo
 
-alunos.shift()
+//alunos.shift()
 
-console.log(alunos)
+//console.log(alunos)
 
 //alunos.push('Luiza') //Adiciona no fim
 //alunos.push('Eduardo')
