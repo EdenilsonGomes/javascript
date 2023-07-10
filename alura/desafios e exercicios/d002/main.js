@@ -1,3 +1,7 @@
-var teste = document.querySelectorAll('.resultado')
+const recebe = document.querySelector('#calcular')
 
-teste.innerText = 'testando'
+recebe.addEventListener('click', recebe1)
+
+function recebe1(){
+recebe.innerText="Fui clicado"
+}
